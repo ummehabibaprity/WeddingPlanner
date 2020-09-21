@@ -1,9 +1,8 @@
-# WeddingPlanner
+# WeddingPlanner(Android Studio Project Using Firebase Database)
 Android Studio Project Using Firebase Database
 Our Project Name : Wedding Planner
 This is an android project.
 For running this project in your device you have to follow this steps :
-
 1. We use this project in Windows 10 (64bit) version.
 2. We use Android Studio version 3.5.3  , MIN SDK Version 23 ,Target SDK Version 29 , Gradle Version 5.4.1  .
 You must have to have this version of android studio.
